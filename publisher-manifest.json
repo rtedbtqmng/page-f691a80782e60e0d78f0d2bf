@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3896e2a614ca49b0e801be3e",
+  "owner": "rtedbtqmng",
+  "repo": "page-f691a80782e60e0d78f0d2bf",
+  "title": "贵的一皮",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f691a80782e60e0d78f0d2bf",
+      "a": "贵的一皮",
+      "b": "",
+      "entity": "贵的一皮",
+      "brand": "贵的一皮",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f6e86dc2afaca01252b766b7718ac044d26c642caee6328dd0e42d79ac682ac1",
+      "content": {
+        "keyword1": "贵的一皮",
+        "keyword2": "",
+        "primary_entity": "贵的一皮",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "贵的一皮提供机场订阅与VPN梯子网络加速服务，说明套餐差异、配置流程与多端客户端下载方式，帮助访问官网的用户按场景完成节点连接与稳定加速。",
+          "AI_DESCRIPTION": "贵的一皮提供机场订阅与VPN梯子网络加速服务，说明套餐差异、配置流程与多端客户端下载方式，帮助访问官网的用户按场景完成节点连接与稳定加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%;overflow-x:hidden}body{font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif;background:#FFF8F3;color:#2B221F;line-height:1.75;overflow-x:hidden;word-wrap:break-word;overflow-wrap:break-word}a{color:#C94C3A;text-decoration:none}a:hover{text-decoration:underline}.inner{max-width:920px;margin:0 auto;padding:16px}header{background:#FFF1EA;border-bottom:3px solid #E56B57}#top{display:block}.logo{font-size:1.125rem;font-weight:700;color:#C44536}.badge{display:inline-block;margin-left:6px;font-size:0.75rem;font-weight:700;color:#fff;background:#E56B57;border-radius:4px;padding:1px 6px;vertical-align:middle}nav{margin-top:10px;display:flex;flex-wrap:wrap;gap:8px 10px}nav a{background:#fff;border:1px solid #F0D0C6;border-radius:999px;padding:5px 11px;font-size:0.875rem;color:#4A332E}nav a:hover{text-decoration:none;background:#FFE8E1}main{display:block}h1{font-size:1.7rem;line-height:1.32;margin:4px 0 12px;color:#321F1A}h2{font-size:1.28rem;margin:28px 0 10px;padding:4px 0 4px 12px;border-left:4px solid #E56B57;color:#321F1A}h3{font-size:1.05rem;margin:16px 0 8px;color:#4A2C26}p{margin:0 0 10px;font-size:1rem}.lead{font-size:1.04rem;color:#4E3C36}.grid{display:flex;flex-direction:column;gap:12px}.card{background:#fff;border:1px solid #F2D8D0;border-radius:12px;padding:16px}.card.featured{border:2px solid #E56B57;background:#FFF5F1}.tag{display:inline-block;background:#E56B57;color:#fff;font-size:0.75rem;font-weight:700;border-radius:4px;padding:2px 8px;margin-bottom:8px}.price{font-size:1.42rem;font-weight:700;color:#C44536;margin:2px 0 4px}.note{color:#6D5A53;font-size:0.9rem}ul,ol{padding-left:1.25em;margin:6px 0 0}li{margin:4px 0}.step-list{list-style:none;padding:0;margin:0}.step-list>li{background:#fff;border:1px solid #F2D8D0;border-radius:12px;padding:14px 14px 14px 16px;margin:0 0 10px;border-left:5px solid #E56B57}.num{display:inline-block;min-width:1.5em;font-weight:700;color:#E56B57}.btn{display:inline-block;background:#E56B57;color:#fff;padding:8px 14px;border-radius:8px;font-weight:700;margin:8px 8px 0 0}.btn:hover{text-decoration:none;background:#C94C3A}.btn-ghost{background:#fff;color:#C44536;border:1px solid #E56B57}details{background:#fff;border:1px solid #F2D8D0;border-radius:10px;padding:12px 14px;margin:0 0 8px}summary{font-weight:700;color:#321F1A}details p{margin:8px 0 0;color:#4E3C36}.ad{background:#FFF0EA;border:1px dashed #E56B57;border-radius:10px;padding:12px;margin:10px 0}footer{background:#3A2723;color:#F8EBE6;margin-top:36px}footer h2{color:#FFF8F3;border-left-color:#FF8A78}footer h3{color:#FFE4DC;margin-top:8px}footer a{color:#FFB2A4}.cluster{display:flex;flex-wrap:wrap;gap:8px 14px;margin:8px 0 16px}.fine{font-size:0.85rem;color:#D9C4BC;margin-top:8px}@media (min-width:760px){.grid{flex-direction:row;align-items:stretch}.grid .card{flex:1 1 0}h1{font-size:2rem}.inner{padding:20px 24px}}</style><header id=\"top\"><div class=\"inner\"><p class=\"logo\">贵的一皮 <span class=\"badge\">官网</span></p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"inner\"><h1>贵的一皮 – 机场订阅与 VPN 梯子网络加速官网</h1><p class=\"lead\">贵的一皮把机场订阅、VPN 客户端下载和可执行的配置流程放在同一张官网上：先看清流量与设备配额，再按系统导入节点，最后按办公、流媒体或游戏场景选择线路。名字叫贵的一皮，贵的是线路与可用性，不是让人猜不透的营销话术。</p><p><a class=\"btn\" href=\"#plans\">查看订阅套餐</a><a class=\"btn btn-ghost\" href=\"#download\">前往客户端下载</a></p><section id=\"intro\"><h2>品牌简介</h2><p>贵的一皮是面向跨境访问与稳定加速的机场 VPN 服务。用户在官网完成套餐选择后，即可获得通用订阅链接，并在 Windows、macOS、Android、iOS 以及常见软路由环境中导入。我们强调三件事：节点在晚高峰仍然可连，流媒体解锁按套餐写清楚，配置步骤短到可以照着做完。</p><p>与只提供单一出口的传统 VPN 不同，贵的一皮以机场订阅组织线路池。同一份订阅可在多台已授权设备上更新节点、切换规则，不必为每个 App 单独寻找“加速器”。旗舰版加入 IPLC 游戏优化与全节点原生流媒体解锁；团队版则把高带宽节点和企业定制路由交给工作室使用。</p><h3>官方身份与使用边界</h3><p>本页为贵的一皮官方网站信息页。套餐价格、设备上限、客户端下载指引与工单说明以本站公示为准。请通过官网公布的订阅入口获取节点，不要使用来路不明的配置文件。服务用于合规的跨境办公、学术检索、公开资讯与授权流媒体访问；请遵守所在地法律法规及目标网站条款。</p></section><section id=\"plans\"><h2>订阅套餐</h2><p>三档结构按月流量、同时在线设备和线路能力划分。年付把月费打成整数，便于个人和团队做年度预算。若你主要是网页、邮箱与轻度视频，基础版足够起步；日常需要解锁流媒体并兼顾游戏延迟，直接看旗舰版；多人共享或需要专属路由，选择团队版。</p><div class=\"grid\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"note\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn btn-ghost\" href=\"#setup\">按基础版开始配置</a></p></article><article class=\"card featured\"><p class=\"tag\">推荐 · 旗舰版</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"note\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#setup\">按旗舰版完成配置</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"note\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn btn-ghost\" href=\"#setup\">按团队版部署订阅</a></p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><p>贵的一皮不把“能翻出去”当成唯一目标，而是按任务选节点：办公要稳定会话，视频要解锁与少缓冲，游戏要专线，开发要干净的 DNS 与分流。</p><h3>跨境远程办公</h3><p>会议、文档协作、企业邮箱和代码仓库对断流敏感。建议使用旗舰版普通优质节点或团队版高带宽节点，开启分流域名规则，让国内站点直连、海外办公域名走订阅，避免全局代理拖慢内网系统。</p><h3>流媒体与公开资讯</h3><p>基础版覆盖常见资讯站点与基础流媒体；旗舰版提供全节点原生解锁，减少“显示有网络却一直转圈”的情况。播放前先更新订阅，优先选择标注解锁的地区节点，并避免在同一账号下频繁切换出口。</p><h3>游戏加速</h3><p>旗舰版的 IPLC 专线面向对延迟和丢包更敏感的对战与更新下载。连接后在客户端锁定游戏进程或对应端口，不要把大流量下载和对局挤在同一条拥塞线路上。</p><h3>学术检索与多端开发</h3><p>文献数据库、镜像源和容器仓库适合走稳定标准节点。笔记本、云手机与实验室电脑可共享同一订阅，只要不超过套餐设备上限。团队版可按部门拆分路由，把测试流量和生产访问隔开。</p></section><section id=\"setup\"><h2>操作说明与配置流程</h2><p>下面是贵的一皮官网推荐的标准路径。按顺序做完，通常比在各个群里索要“最新节点”更可靠。配置的核心不是堆软件，而是：订阅能更新、规则能分流、设备数不超标。</p><ol class=\"step-list\"><li><h3><span class=\"num\">1.</span> 确认套餐与设备清单</h3><p>先写下你真正要同时在线的设备：电脑、手机、平板或路由器。3 台以内看基础版，5 台以内且需要流媒体与游戏看旗舰版，工作室多人共享看团队版。选定后在官网完成订阅，保留订单号以便工单核对。</p></li><li><h3><span class=\"num\">2.</span> 复制机场订阅链接</h3><p>登录后在用户中心生成 Clash / Sing-box 通用订阅。链接视作密钥：不要发到公开频道，不要截图保存到网盘。若只需要某个客户端格式，使用对应的转换入口，而不是手工改 YAML。</p></li><li><h3><span class=\"num\">3.</span> 下载并安装客户端</h3><p>到本页<a href=\"#download\">客户端下载</a>区按系统选择软件。Windows 常用 Clash Verge 或 v2rayN，macOS 可用 Clash 系客户端，Android 使用 Meta 内核应用，iOS 使用支持订阅的商店客户端。安装后先不要导入来路不明的配置。</p></li><li><h3><span class=\"num\">4.</span> 导入订阅并更新节点</h3><p>在客户端选择“从 URL 导入/订阅”，粘贴贵的一皮订阅链接，执行一次更新。确认节点列表出现香港、日本、新加坡、美国等地区分组。若列表为空，检查系统时间、TLS 被拦截或订阅被重置。</p></li><li><h3><span class=\"num\">5.</span> 按场景选择节点并开启分流</h3><p>网页与办公选标准优质节点；流媒体选解锁组；游戏选 IPLC 组。开启规则分流，让国内视频、银行和政务站点直连。连接成功后用目标网站验证，而不是只看延迟数字。</p></li></ol><h3>导入后的检查清单</h3><ul><li>客户端已允许局域网与 VPN 权限，系统代理未被其他加速器占用。</li><li>设备数量未超过套餐上限，路由器如果常开，请把它计入在线数。</li><li>DNS 使用客户端内置或加密 DNS，避免污染导致“已连接但打不开”。</li><li>首次失败时先更新订阅，再更换同一地区的备用节点，而不是连续狂点。</li></ul><p><a class=\"btn\" href=\"#download\">下一步：客户端下载</a><a class=\"btn btn-ghost\" href=\"#faq\">查看常见问题</a></p></section><section id=\"download\"><h2>客户端下载</h2><p>贵的一皮不绑定单一封闭客户端。官方建议使用主流开源或商店上架的订阅客户端，降低“下载到修改版加速器”的风险。下列入口均为本页指引锚点，安装完成后回到配置流程导入订阅即可。</p><div class=\"grid\"><article class=\"card\"><h3>桌面端</h3><p>Windows 建议 Clash Verge、v2rayN；macOS 建议 Clash 系或兼容订阅的图形客户端。安装时关闭额外捆绑项，只保留内核与系统代理能力。</p><p><a class=\"btn\" href=\"#download\">Windows 官方下载指引</a><a class=\"btn btn-ghost\" href=\"#download\">macOS 官方下载指引</a></p></article><article class=\"card\"><h3>移动端</h3><p>Android 使用 Meta 内核客户端导入通用订阅；iOS 使用支持 Clash/Sing-box 订阅的商店应用。蜂窝网络下如遇认证页，先断开再重连一次订阅。</p><p><a class=\"btn\" href=\"#download\">Android 客户端下载</a><a class=\"btn btn-ghost\" href=\"#download\">iOS 客户端下载</a></p></article><article class=\"card\"><h3>路由与多设备</h3><p>OpenWrt、旁路由可将贵的一皮订阅写成定时更新。团队版 20 台额度适合把客厅网关和办公网关一起纳入，但请给网关单独保留设备席位，避免手机反复挤占。</p><p><a class=\"btn btn-ghost\" href=\"#setup\">返回配置流程</a></p></article></div><h3>下载与安全提示</h3><p>只从官网指引和开发者发布渠道获取安装包，核对比校验或商店开发者名称。任何要求你关闭杀毒、填写验证码钱包或转发订阅才能“提速”的页面，都不是贵的一皮官方下载。</p></section><section id=\"nodes\"><h2>节点、线路与加速能力</h2><p>贵的一皮节点池按地区与用途分组，而不是把上百条同质线路平铺给用户。普通线路承担浏览、协作和开发；解锁组服务流媒体；IPLC 组服务旗舰版游戏加速。晚高峰我们优先保可连接性，遇到拥塞会在工单和公告中提示临时替换分组，而不是要求用户自行寻找“神秘高速节点”。</p><p>基础版使用普通线路节点池，满足轻度加速；旗舰版在此基础上开放原生解锁与游戏优化；团队版提供 VIP 高带宽与可申请的定制路由。无论哪一档，订阅更新频率都建议保持默认，不必每小时手动刷新。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>贵的一皮是什么？和普通 VPN 加速器有何不同？</summary><p>贵的一皮是带订阅更新能力的机场 VPN 服务。普通单一出口 VPN 往往只有一条固定通道；机场订阅则把多地区节点、流媒体解锁组和游戏专线放进同一份配置，客户端按规则分流。你在官网选定套餐后，用一份链接维护多台已授权设备，这是它作为梯子网络加速方案的主要差异。</p></details><details><summary>如何从贵的一皮官网完成客户端下载和订阅导入？</summary><p>先在套餐区确认设备数量，开通后复制用户中心的订阅链接，再进入本页客户端下载区按系统安装软件。打开客户端选择从 URL 导入，粘贴链接并更新节点，最后按办公、流媒体或游戏分组连接。完整五步见配置流程，不必额外安装第二个加速器。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>每月流量低于 100GB、设备不超过 3 台、只需基础流媒体时选基础版。需要 300GB、5 台设备、全节点解锁和 IPLC 游戏优化时选旗舰版，这也是大多数个人用户的默认档。20 台设备、1000GB、VIP 高带宽和定制路由则走团队版，并配套专属客户经理。年付价格分别为 ¥150、¥350 与 ¥850，适合确定会长年使用的情况。</p></details><details><summary>贵的一皮支持哪些设备？同时在线超了会怎样？</summary><p>桌面、手机、平板和常见软路由均可导入同一订阅，受套餐设备上限约束：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备可能无法获得代理或挤掉旧会话。路由器如果 24 小时在线，请永久占用一个名额，不要把它和临时手机重复计算。</p></details><details><summary>流媒体解锁和游戏加速分别应该连哪类节点？</summary><p>看视频请使用解锁组，旗舰版为全节点原生解锁，基础版仅覆盖基础流媒体。游戏请使用旗舰版 IPLC 分组，并避免一边下载更新一边排位。资讯与办公用标准优质节点即可。若某个平台仍提示地区限制，先更新订阅，再换同地区备用节点，不要在短时间内把出口跳到多个国家。</p></details><details><summary>订阅无法更新、连上却打不开网站时如何处理？</summary><p>依次检查：系统时间是否准确、是否有其他 VPN 抢占系统代理、订阅链接是否被重置、设备数是否超员。然后在客户端强制更新一次订阅，更换同分组节点，并改用规则分流而非全局。若仍失败，旗舰版可提交 7x24 优先工单，团队版可直接联系客户经理，提供操作系统、客户端名称和错误提示原文。</p></details><details><summary>流量用尽或想改年付，需要重新下载客户端吗？</summary><p>不需要。客户端可以继续留在设备上。流量用尽后新连接会失败或降速，待次月重置或升级套餐即可。月付改年付在官网订单中办理，订阅链接通常保持不变；若系统签发了新链接，只需在客户端里替换 URL 再更新节点。</p></details></section><section id=\"ads\"><h2>广告</h2><div class=\"ad\"><p><strong>官方推广：</strong>贵的一皮旗舰版年付通道面向把办公、流媒体和游戏放在同一套订阅里的个人用户。需要优先工单与 IPLC 游戏优化时，直接按本页配置流程开通，无需另行寻找第三方加速器。</p></div><div class=\"ad\"><p><strong>合作广告位：</strong>跨境协作、域名邮箱与合规云主机类工具可申请文字点位。团队版客户如需把企业定制路由与办公套件一并交付，请通过专属客户经理提交合作说明。本站不放置弹窗或自动跳转下载。</p></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\" id=\"sitemap\"><h2>网站地图</h2><p>按栏目回到贵的一皮官网对应章节，便于对照套餐、配置与客户端下载。</p><div class=\"cluster\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#nodes\">节点与线路</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告</a><a href=\"#friends\">友链</a></div><h3 id=\"friends\">友链</h3><div class=\"cluster\"><a href=\"#\">Clash 配置入门</a><a href=\"#\">v2rayN 使用笔记</a><a href=\"#\">Sing-box 规则说明</a><a href=\"#\">分流规则示例</a><a href=\"#\">加密 DNS 实践</a><a href=\"#\">OpenWrt 订阅教程</a></div><p class=\"fine\">贵的一皮官方网站 · 机场订阅与 VPN 梯子网络加速 · 客户端下载与配置说明以本页为准。</p><p class=\"fine\">canonical: https://www.guideyipi.com/ · robots: index,follow</p></div></footer>",
+          "hash": "3a4163c181737d27da81cd9ba6104af429b921dbf4cfdb7b2ca6b623aa40ddf3",
+          "seo": {
+            "title": "贵的一皮官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "贵的一皮,贵的一皮官网,贵的一皮机场,贵的一皮VPN,机场订阅,VPN客户端下载,网络加速器,梯子,官方下载,配置流程",
+            "description": "贵的一皮提供机场订阅与VPN梯子网络加速服务，说明套餐差异、配置流程与多端客户端下载方式，帮助访问官网的用户按场景完成节点连接与稳定加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zzvoe.cn",
+    "host": "p-b56120f561.zzvoe.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "zzvoe.cn",
+      "url": "https://zzvoe.cn/",
+      "label": "飞机TNT",
+      "apex": "zzvoe.cn",
+      "kind": null,
+      "identity": "umyftfpqn/page-b229d26fd2deaf871624eb39"
+    },
+    {
+      "host": "doushangxin.cn",
+      "url": "https://doushangxin.cn/",
+      "label": "贵的一皮",
+      "apex": "doushangxin.cn",
+      "kind": null,
+      "identity": "quoqlctin/page-b6c7ff532920fe05800229f0"
+    },
+    {
+      "host": "jpnwlev.cn",
+      "url": "https://jpnwlev.cn/",
+      "label": "贵的一皮",
+      "apex": "jpnwlev.cn",
+      "kind": null,
+      "identity": "utdypakiksjoz/page-a4718a74f0a882ac8cc6e750"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "46857817a4327310d282febcdda849ad2c872d47bce73fd98fb2e233fc6d9bdd",
+    "sitemap.xml": "1f50a60ecfbb72546a1a6410caabcffc3f1e35a108b5f31438b051c91065b320",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "69e73a8174cfea7dfeac59c12551dc9021c36090180557129d983a1506678a4e",
+    "robots.txt": "9a9582d54a322aa7a7d9d86817eda45c18b6b68d3c6002bc2fc7d14302540794",
+    "1dddb5853b32f319de5069cf58a629e7.txt": "b2c06f1d142d2565c04a5ec874fb8ab8cef9d1fd3af5c7d2334677ea4bcf45ac"
+  },
+  "revision": "9a9db9bc3684852a7887c59b628adb17c215fb854949156e606f8d35ab0cd614"
+}
